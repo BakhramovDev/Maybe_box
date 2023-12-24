@@ -9,3 +9,9 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.about .container {
+  border: 1px solid red;
+}
+</style>

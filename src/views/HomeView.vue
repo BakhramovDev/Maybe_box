@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="home">
     <about />
   </div>
 </template>
@@ -13,3 +13,9 @@ export default {
   },
 };
 </script>
+
+<style>
+body {
+  background: #e6e6e6;
+}
+</style>
